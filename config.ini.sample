@@ -1,0 +1,15 @@
+[Ftp]
+Host = 172.16.56.134
+User = ftpuser
+Passwd = ftpuser
+FileCounts = 10
+
+[Yourls]
+Host = http://u.io/yourls-api.php
+User = username
+Passwd = password
+
+[Ngx]
+Host = http://tmpfile.u.io/
+User = test
+Passwd = test
