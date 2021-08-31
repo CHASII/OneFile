@@ -1,4 +1,7 @@
 
+### 安装说明
+VSFtp、Yourls、NginX自行安装
+
 ### 配置说明
 > 路径:/etc/pfile/config.ini
 
@@ -17,7 +20,7 @@
 |:-:|:-:|:-:|
 |Host|Yourls主机||
 |User|Yourls用户||
-|Passwd|YOurls用户密码||
+|Passwd|Yourls用户密码||
 
 * Ngx NginX服务信息
 
@@ -28,7 +31,7 @@
 |Passwd|Nginx Basic Auth密码||
 
 ### 执行命令
-`pfile /data/Software/sougou_pinyin.deb`
+`onefile /data/Software/sougou_pinyin.deb`
 
 2018-04-12 11:53:26,072 - INFO : Uploading /data/Software/sougou_pinyin.deb Into VSFtp...  
 2018-04-12 11:53:26,085 - WARNING : /data/Software/sougou_pinyin.deb no a compressed file!  
